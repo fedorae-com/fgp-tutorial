@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings" : {
+    "TutorionApiConnection" : "User ID = postgres;Password=[password];Server=][server];Port=[port];Database=[database];Integrated Security=true; Pooling=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  }
+}

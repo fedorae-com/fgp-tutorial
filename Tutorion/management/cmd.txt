@@ -1,0 +1,9 @@
+﻿﻿# commands to migrate & update db
+
+1. dotnet ef migration add InitialMigration
+2. dotnet ef database update
+
+# auth asp, signalr + vue
+https://www.dotnetcurry.com/aspnet-core/1511/authentication-aspnetcore-signalr-vuejs 
+
+https://github.com/choudhurynirjhar/auth-demo

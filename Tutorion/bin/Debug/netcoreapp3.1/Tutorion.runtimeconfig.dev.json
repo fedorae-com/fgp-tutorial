@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Shema\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Shema\\.nuget\\packages"
+    ]
+  }
+}
